@@ -7,4 +7,32 @@ motor_imagery_datasets:
     - BNCI2015004: 'BNCI 2015-004 Motor Imagery dataset.'
     - Cho2017: 'Motor Imagery dataset from Cho et al 2017.'
     - Lee2019_MI: '([train_run, test_run, …])'
+    - MunichMI: 'Munich Motor Imagery dataset.'
+    - Ofner2017: '([imagined, executed]) Motor Imagery ataset from Ofner et al 2017.'
+    - PhysionetMI: '([imagined, executed]) Physionet Motor Imagery dataset.'
+    - Schirrmeister2017: 'High-gamma dataset discribed in Schirrmeister et al. 2017.'
+    - Shin2017A: '([accept]) Motor Imagey Dataset from Shin et al 2017'
+    - Shin2017B: '([accept]) Mental Arithmetic Dataset from Shin et al 2017'
+    - Weibo2014: 'Motor Imagery dataset from Weibo et al 2014.'
+    - Zhou2016: 'Motor Imagery dataset from Zhou et al 2016.'
+    
+erp_datasets:
+    - bi2013a: '([NonAdaptive, Adaptive, Training, …]) P300 dataset bi2013a from a “Brain Invaders” experiment'
+    - BNCI2014008: 'BNCI 2014-008 P300 dataset'
+    - BNCI2014009: 'BNCI 2014-009 P300 dataset.'
+    - BNCI2015003: 'BNCI 2015-003 P300 dataset.'
+    - DemonsP300: 'Visual P300 dataset recorded in Virtual Reality (VR) game Raccoons versus Demons.'
+    - EPFLP300: 'P300 dataset from Hoffmann et al 2008.'
+    - Lee2019_ERP: '([train_run, test_run, …])'
+    
+ssvep_dataset:
+    - SSVEPExo: 'SSVEP Exo dataset'
+    - Nakanishi2015: 'SSVEP Nakanishi 2015 dataset'
+    - Wang2016': 'SSVEP Wang 2016 dataset'
+    - MAMEM1: 'SSVEP MAMEM 1 dataset'
+    - MAMEM2: 'SSVEP MAMEM 2 dataset'
+    - MAMEM3: 'SSVEP MAMEM 3 dataset'
+    - Lee2019_SSVEP: '([train_run, test_run, …])'
+
+
 
