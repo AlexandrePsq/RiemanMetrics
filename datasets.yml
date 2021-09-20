@@ -1,0 +1,10 @@
+motor_imagery_datasets:
+    - AlexMI: 'Alex Motor Imagery dataset.'
+    - BNCI2014001: 'BNCI 2014-001 Motor Imagery dataset.'
+    - BNCI2014002: 'BNCI 2014-002 Motor Imagery dataset.'
+    - BNCI2014004: 'BNCI 2014-004 Motor Imagery dataset.'
+    - BNCI2015001: 'BNCI 2015-001 Motor Imagery dataset.'
+    - BNCI2015004: 'BNCI 2015-004 Motor Imagery dataset.'
+    - Cho2017: 'Motor Imagery dataset from Cho et al 2017.'
+    - Lee2019_MI: '([train_run, test_run, …])'
+
