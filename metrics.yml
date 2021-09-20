@@ -1,4 +1,4 @@
-pyRiemann metrics:
+pyriemann:
   - euclid
   - riemann
   - logeuclid
@@ -7,10 +7,12 @@ pyRiemann metrics:
   - kullback_sym
   - wassertein
 
-geomstats metrics:
-  - spd_matrices.SPDMetricEuclidean
-  - riemannian_metric.RiemannianMetric
-  - spd_matrices.SPDMetricLogEuclidean
-  - spd_matrices.SPDMetricBuresWasserstein
-  - invariant_metric.BiInvariantMetric
-  - spd_matrices.SPDMetricAffine
+geomstats:
+  - spd_matrices:
+      - SPDMetricEuclidean
+      - SPDMetricLogEuclidean
+      - SPDMetricBuresWasserstein
+      - SPDMetricAffine
+  - riemannian_metric:
+      - RiemannianMetric
+      - BiInvariantMetric
