@@ -8,7 +8,7 @@ from geomstats.geometry.invariant_metric import BiInvariantMetric
 
 class CustomToTangentSpace(BaseEstimator, TransformerMixin):
 
-    def __init__(self, geometry):
+    def __init__(self, geometry_name):
         geometries = {
             'euclid': SPDMetricEuclidean,
             'logeuclid': SPDMetricLogEuclidean,
@@ -17,7 +17,8 @@ class CustomToTangentSpace(BaseEstimator, TransformerMixin):
             'riemannian': RiemannianMetric,
             'biinvariant': BiInvariantMetric,
         }
-        self.geometry = geometries[geometry]
+        self.geometry_name = geometry_name
+        self.geometry = geometries[geometry_name]
         self.tangent_space = None
 
     def fit(self, X, y=None, weights=None, base_point=None):
