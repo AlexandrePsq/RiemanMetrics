@@ -57,7 +57,7 @@ paradigm = MotorImagery()
 pipelines = {}
 # datasets = [AlexMI()]
 # datasets = [AlexMI(), BNCI2014001(), BNCI2014002(), BNCI2014004(), BNCI2015001(), BNCI2015004(), Cho2017(), Lee2019_MI(), MunichMI(), Ofner2017(), PhysionetMI(), Schirrmeister2017(), Shin2017A(), Shin2017B(), Weibo2014(), Zhou2016()]
-datasets = [AlexMI(), BNCI2014001(), Zhou2016()]
+datasets = [AlexMI(), BNCI2014001()]#, Zhou2016()]
 
 # projections = [None, TangentSpace, CustomToTangentSpace]
 metrics = load_metrics()
@@ -66,7 +66,7 @@ for metric, classifier in product(metrics, classifiers):
     metric_name = metric.metric if isinstance(metric, TangentSpace) else metric.geometry_name
     name = f'{metric.__class__.__name__}_{metric_name}_{classifier}'
     print(name)
-    pipelines[name] = make_pipeline(pyr_cov(), metric, classifier)
+    pipelines[name] = make_pipeline(pyr_cov('lwf'), metric, classifier)
 
 metrics = [
     # 'euclid',
