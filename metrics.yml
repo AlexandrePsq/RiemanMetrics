@@ -7,9 +7,9 @@ pyriemann:
   - wasserstein
 
 geomstats:
-  - euclid
+  # - euclid
   - logeuclid
-  - wasserstein
+  # - wasserstein
   - affine
-  - riemannian
-  - biinvariant
+  # - riemannian
+  # - biinvariant

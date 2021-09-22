@@ -1,6 +1,7 @@
 from CustomToTangentSpace import CustomToTangentSpace
 import warnings
 
+import os
 import time
 import resource
 import numpy as np
@@ -50,22 +51,38 @@ from classifiers import classifiers
 
 # MDM_classifiers = [MDM(metric=m) for m in metrics]
 
+os.makedirs('results/', exist_ok=True)
+
 paradigm = MotorImagery()
 pipelines = {}
-datasets = [AlexMI()]
+# datasets = [AlexMI()]
+datasets = [AlexMI(), BNCI2014001(), BNCI2014002(), BNCI2014004(), BNCI2015001(), BNCI2015004(), Cho2017(), Lee2019_MI(), MunichMI(), Ofner2017(), PhysionetMI(), Schirrmeister2017(), Shin2017A(), Shin2017B(), Weibo2014(), Zhou2016()]
 
 # projections = [None, TangentSpace, CustomToTangentSpace]
 metrics = load_metrics()
 
 for metric, classifier in product(metrics, classifiers):
-    name = f'{metric}_{classifier}'
+    metric_name = metric.metric if isinstance(metric, TangentSpace) else metric.geometry_name
+    name = f'{metric.__class__.__name__}_{metric_name}_{classifier}'
     print(name)
     pipelines[name] = make_pipeline(pyr_cov(), metric, classifier)
 
+metrics = [
+    'euclid',
+    'riemann',
+    'logeuclid',
+    'logdet',
+    'kullback_sym',
+    'wasserstein',
+]
+
+for m in metrics:
+    name = f'MDM_{m}'
+    pipelines[name] = make_pipeline(pyr_cov(), MDM(metric=m))
 
 evaluation_within_session = WithinSessionEvaluation(
     paradigm=paradigm,
-    datasets=datasets,
+    datasets=datasets[:5],
     overwrite=True,
     hdf5_path=None,
 )
@@ -87,5 +104,5 @@ def plot(results, kind="bar", y="score", x="subject", hue="pipeline", palette="t
     #g.set_xticklabels(plt.get_xticklabels(), fontsize = 18)
     plt.show()
 
-results_within_session.to_csv('results.csv')
+results_within_session.to_csv('results/within_session.csv')
 plot(results_within_session)

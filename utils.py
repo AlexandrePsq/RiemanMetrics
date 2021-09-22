@@ -21,8 +21,8 @@ def load_metrics():
     pyr_metrics = [TangentSpace(metric=m) for m in content['pyriemann']]
     geo_metrics = [CustomToTangentSpace(geometry_name=m) for m in content['geomstats']]
 
-    # return pyr_metrics + geo_metrics
-    return geo_metrics
+    return pyr_metrics + geo_metrics
+    # return geo_metrics
 
 
 if __name__ == '__main__':
