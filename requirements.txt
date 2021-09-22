@@ -1,0 +1,10 @@
+jupyter
+pyriemann
+numpy
+matplotlib
+pandas
+sklearn
+seaborn
+moabb
+geomstats
+mne
