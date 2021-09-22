@@ -7,11 +7,9 @@ pyriemann:
   - wassertein
 
 geomstats:
-  - spd_matrices:
-      - SPDMetricEuclidean
-      - SPDMetricLogEuclidean
-      - SPDMetricBuresWasserstein
-      - SPDMetricAffine
-  - riemannian_metric:
-      - RiemannianMetric
-      - BiInvariantMetric
+  - euclid
+  - logeuclid
+  - wasserstein
+  - affine
+  - riemannian
+  - biinvariant
