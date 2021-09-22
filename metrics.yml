@@ -3,7 +3,6 @@ pyriemann:
   - riemann
   - logeuclid
   - logdet
-  - kullback
   - kullback_sym
   - wassertein
 
