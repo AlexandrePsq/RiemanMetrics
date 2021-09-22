@@ -22,16 +22,16 @@ from pyriemann.classification import MDM
 
 
 classifiers = [
-    KNeighborsClassifier(),
-    SVC(kernel='linear'),
+    # KNeighborsClassifier(),
+    # SVC(kernel='linear'),
     SVC(kernel='rbf', gamma='scale', C=1),
-    GaussianProcessClassifier(),
-    DecisionTreeClassifier(),
-    RandomForestClassifier(),
-    MLPClassifier(max_iter=1000),
-    AdaBoostClassifier(),
-    GaussianNB(),
-    QuadraticDiscriminantAnalysis(),
+    # GaussianProcessClassifier(),
+    # DecisionTreeClassifier(),
+    # RandomForestClassifier(),
+    # MLPClassifier(max_iter=1000),
+    # AdaBoostClassifier(),
+    # GaussianNB(),
+    # QuadraticDiscriminantAnalysis(),
     LogisticRegression(),
     # MDM(metric='riemann')
 ]

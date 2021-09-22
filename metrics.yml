@@ -1,10 +1,10 @@
 pyriemann:
-  - euclid
+  # - euclid
   - riemann
   - logeuclid
-  - logdet
-  - kullback_sym
-  - wasserstein
+  # - logdet
+  # - kullback_sym
+  # - wasserstein
 
 geomstats:
   # - euclid
