@@ -23,6 +23,7 @@ from pyriemann.classification import MDM
 
 classifiers = [
     KNeighborsClassifier(),
+    SVC(kernel='linear'),
     SVC(kernel='rbf', gamma='scale', C=1),
     GaussianProcessClassifier(),
     DecisionTreeClassifier(),
@@ -32,6 +33,7 @@ classifiers = [
     GaussianNB(),
     QuadraticDiscriminantAnalysis(),
     LogisticRegression(),
+    # MDM(metric='riemann')
 ]
 
 # Logistic regression

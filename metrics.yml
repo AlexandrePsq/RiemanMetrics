@@ -4,7 +4,7 @@ pyriemann:
   - logeuclid
   - logdet
   - kullback_sym
-  - wassertein
+  - wasserstein
 
 geomstats:
   - euclid
