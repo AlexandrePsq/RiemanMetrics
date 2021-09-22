@@ -1,0 +1,11 @@
+Apolline - Vérifier que tous les datasets sont compatibles avec 'Paradigm'
+Alex - Regarder l'impact de l'estimation de la matrice de covariance sur la performance + corrélations maps
+     - Garder la meilleure méthode 
+Alex - introduire une estimation du temps de calcul à chaque fois
+Alex - lister l'ensemble des modèles de classification
+Apolline - lister l'ensemble des métriques similaires des deux frameworks
+Apolline - identifier les métriques propres à chaque framework
+Alex - comparer pour tous les modèles de classification, les différentes métriques à travers les datasets
+Alex - faire une analyses anova 2 ways
+Alex - tester Within/Cross etc...
+Alex - regarder l'impact d'un preprocessing de l'input (sélection de bande de fréquence ou réduction de dimension)
