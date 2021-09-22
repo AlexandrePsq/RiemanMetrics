@@ -1,0 +1,261 @@
+,score,time,samples,subject,session,channels,n_sessions,dataset,pipeline
+0,0.91013604,0.37451997,144.0,1,session_E,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+1,0.90734696,0.42134446,144.0,1,session_T,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+2,0.6182993,0.9199215,144.0,2,session_E,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+3,0.65537417,0.7052316,144.0,2,session_T,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+4,0.9654422,0.37208384,144.0,3,session_E,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+5,0.9823129,0.37667766,144.0,3,session_T,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+6,0.7968027,0.3669147,144.0,4,session_E,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+7,0.82054424,0.36217338,144.0,4,session_T,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+8,0.5945578,0.4184102,144.0,5,session_E,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+9,0.4582313,0.9173329,144.0,5,session_T,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+10,0.73156464,0.7620317,144.0,6,session_E,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+11,0.7827891,0.3608446,144.0,6,session_T,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+12,0.90863943,0.37018126,144.0,7,session_E,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+13,0.7745578,0.86918414,144.0,7,session_T,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+14,0.9710204,0.38736543,144.0,8,session_E,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+15,0.9785714,0.3715516,144.0,8,session_T,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+16,0.9442177,0.3916048,144.0,9,session_E,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+17,0.8023129,0.5975633,144.0,9,session_T,22,2,001-2014,CustomToTangentSpace_affine_LogisticRegression()
+18,0.675,0.18760362,40.0,1,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_LogisticRegression()
+19,0.625,0.081670426,40.0,2,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_LogisticRegression()
+20,0.8125,0.18673435,40.0,3,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_LogisticRegression()
+21,0.8625,0.07601023,40.0,4,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_LogisticRegression()
+22,0.7625,0.35196176,40.0,5,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_LogisticRegression()
+23,0.625,0.11394081,40.0,6,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_LogisticRegression()
+24,1.0,0.06594205,40.0,7,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_LogisticRegression()
+25,0.9125,0.22155194,40.0,8,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_LogisticRegression()
+26,0.93517005,0.6969179,144.0,1,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+27,0.8907483,0.23622265,144.0,1,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+28,0.657415,0.24823084,144.0,2,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+29,0.637483,0.21030226,144.0,2,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+30,0.9707483,0.43699154,144.0,3,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+31,0.9789796,0.6257614,144.0,3,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+32,0.7461905,0.33606505,144.0,4,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+33,0.8172789,0.6774343,144.0,4,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+34,0.6027211,0.21383443,144.0,5,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+35,0.5216327,0.22329435,144.0,5,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+36,0.6680272,0.19368939,144.0,6,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+37,0.71564627,0.29091635,144.0,6,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+38,0.8491837,0.43658656,144.0,7,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+39,0.79353744,0.20829225,144.0,7,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+40,0.96843535,0.19900937,144.0,8,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+41,0.9942857,0.37695783,144.0,8,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+42,0.96163267,0.23049144,144.0,9,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+43,0.71040815,0.20680232,144.0,9,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_LogisticRegression()
+44,0.775,0.11999478,40.0,1,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_LogisticRegression()
+45,0.6375,0.051157475,40.0,2,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_LogisticRegression()
+46,0.75,0.099128865,40.0,3,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_LogisticRegression()
+47,0.9,0.060088824,40.0,4,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_LogisticRegression()
+48,0.6875,0.12629728,40.0,5,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_LogisticRegression()
+49,0.4375,0.043567132,40.0,6,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_LogisticRegression()
+50,1.0,0.08606219,40.0,7,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_LogisticRegression()
+51,0.925,0.051553153,40.0,8,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_LogisticRegression()
+52,0.9555782,0.8569991,144.0,1,session_E,22,2,001-2014,MDM_riemann
+53,0.947415,0.31475616,144.0,1,session_T,22,2,001-2014,MDM_riemann
+54,0.5212925,0.34583148,144.0,2,session_E,22,2,001-2014,MDM_riemann
+55,0.6097279,0.32209143,144.0,2,session_T,22,2,001-2014,MDM_riemann
+56,0.9885714,0.33741158,144.0,3,session_E,22,2,001-2014,MDM_riemann
+57,0.9842857,0.32442814,144.0,3,session_T,22,2,001-2014,MDM_riemann
+58,0.8213605,0.30575258,144.0,4,session_E,22,2,001-2014,MDM_riemann
+59,0.7866667,0.34194034,144.0,4,session_T,22,2,001-2014,MDM_riemann
+60,0.7204762,0.84937274,144.0,5,session_E,22,2,001-2014,MDM_riemann
+61,0.6108163,0.2871949,144.0,5,session_T,22,2,001-2014,MDM_riemann
+62,0.7009524,0.33779186,144.0,6,session_E,22,2,001-2014,MDM_riemann
+63,0.79285717,0.31510964,144.0,6,session_T,22,2,001-2014,MDM_riemann
+64,0.949864,0.54403263,144.0,7,session_E,22,2,001-2014,MDM_riemann
+65,0.81,0.3487206,144.0,7,session_T,22,2,001-2014,MDM_riemann
+66,0.99326533,0.34082517,144.0,8,session_E,22,2,001-2014,MDM_riemann
+67,0.9961905,0.29530907,144.0,8,session_T,22,2,001-2014,MDM_riemann
+68,0.9340816,0.8419651,144.0,9,session_E,22,2,001-2014,MDM_riemann
+69,0.81299317,0.3007112,144.0,9,session_T,22,2,001-2014,MDM_riemann
+70,0.8125,0.113856986,40.0,1,session_0,16,1,Alexandre Motor Imagery,MDM_riemann
+71,0.85,0.06831636,40.0,2,session_0,16,1,Alexandre Motor Imagery,MDM_riemann
+72,0.875,0.07444711,40.0,3,session_0,16,1,Alexandre Motor Imagery,MDM_riemann
+73,0.6875,0.063857794,40.0,4,session_0,16,1,Alexandre Motor Imagery,MDM_riemann
+74,0.625,0.06159401,40.0,5,session_0,16,1,Alexandre Motor Imagery,MDM_riemann
+75,0.4125,0.116583206,40.0,6,session_0,16,1,Alexandre Motor Imagery,MDM_riemann
+76,1.0,0.053612996,40.0,7,session_0,16,1,Alexandre Motor Imagery,MDM_riemann
+77,0.95,0.11388145,40.0,8,session_0,16,1,Alexandre Motor Imagery,MDM_riemann
+78,0.967415,0.37750584,144.0,1,session_E,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+79,0.9518367,0.64016616,144.0,1,session_T,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+80,0.6390476,0.45066923,144.0,2,session_E,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+81,0.6669388,0.95475245,144.0,2,session_T,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+82,0.9979592,0.69883007,144.0,3,session_E,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+83,0.9904762,0.42392746,144.0,3,session_T,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+84,0.8991156,0.3497594,144.0,4,session_E,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+85,0.86285716,0.41440615,144.0,4,session_T,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+86,0.6397959,0.3880685,144.0,5,session_E,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+87,0.49537414,0.69148684,144.0,5,session_T,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+88,0.80489796,0.59979886,144.0,6,session_E,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+89,0.8434694,0.85736656,144.0,6,session_T,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+90,0.97986394,0.346914,144.0,7,session_E,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+91,0.8620408,0.45245677,144.0,7,session_T,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+92,0.9980952,0.6531621,144.0,8,session_E,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+93,0.9980952,0.3964495,144.0,8,session_T,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+94,0.9646939,0.36666384,144.0,9,session_E,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+95,0.89857143,0.6395581,144.0,9,session_T,22,2,001-2014,TangentSpace_riemann_LogisticRegression()
+96,0.8375,0.0690495,40.0,1,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_LogisticRegression()
+97,0.9125,0.061459064,40.0,2,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_LogisticRegression()
+98,0.9,0.1299911,40.0,3,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_LogisticRegression()
+99,0.9625,0.07304015,40.0,4,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_LogisticRegression()
+100,0.9,0.14541325,40.0,5,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_LogisticRegression()
+101,0.4125,0.062361576,40.0,6,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_LogisticRegression()
+102,1.0,0.13592616,40.0,7,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_LogisticRegression()
+103,0.9875,0.056501962,40.0,8,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_LogisticRegression()
+104,0.6048299,0.28513545,144.0,1,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+105,0.78156465,0.19263998,144.0,1,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+106,0.52047616,0.7032676,144.0,2,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+107,0.5255102,0.17866631,144.0,2,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+108,0.85510206,0.15252376,144.0,3,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+109,0.7806803,0.17599273,144.0,3,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+110,0.5678231,0.15599433,144.0,4,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+111,0.6357143,0.1911408,144.0,4,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+112,0.5151701,0.41411415,144.0,5,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+113,0.56863946,0.19480853,144.0,5,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+114,0.5622449,0.22952084,144.0,6,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+115,0.6588435,0.19460765,144.0,6,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+116,0.552449,0.16549149,144.0,7,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+117,0.6629252,0.14886141,144.0,7,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+118,0.932517,0.13900976,144.0,8,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+119,0.89421767,0.14883761,144.0,8,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+120,0.9376871,0.59879553,144.0,9,session_E,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+121,0.6434694,0.1485693,144.0,9,session_T,22,2,001-2014,CustomToTangentSpace_logeuclid_SVC(C=1)
+122,0.55,0.07232027,40.0,1,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_SVC(C=1)
+123,0.7125,0.042158462,40.0,2,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_SVC(C=1)
+124,0.4125,0.07856765,40.0,3,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_SVC(C=1)
+125,0.45,0.043185472,40.0,4,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_SVC(C=1)
+126,0.425,0.091749474,40.0,5,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_SVC(C=1)
+127,0.475,0.03553977,40.0,6,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_SVC(C=1)
+128,0.9375,0.081968404,40.0,7,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_SVC(C=1)
+129,0.8875,0.041287947,40.0,8,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_logeuclid_SVC(C=1)
+130,0.69312924,0.33954102,144.0,1,session_E,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+131,0.74115646,0.82581383,144.0,1,session_T,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+132,0.50034016,0.37905726,144.0,2,session_E,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+133,0.5657143,0.6979639,144.0,2,session_T,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+134,0.837551,0.7894891,144.0,3,session_E,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+135,0.8076871,0.44430286,144.0,3,session_T,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+136,0.53775513,0.7382289,144.0,4,session_E,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+137,0.6259184,0.3492673,144.0,4,session_T,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+138,0.5948299,0.33561367,144.0,5,session_E,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+139,0.48863944,0.35770577,144.0,5,session_T,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+140,0.5780272,0.5757299,144.0,6,session_E,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+141,0.64047617,0.8100808,144.0,6,session_T,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+142,0.5404762,0.6224605,144.0,7,session_E,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+143,0.7022449,0.3433155,144.0,7,session_T,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+144,0.9321088,1.0149148,144.0,8,session_E,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+145,0.8897279,0.7154271,144.0,8,session_T,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+146,0.93530613,0.33685216,144.0,9,session_E,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+147,0.6719728,0.6326765,144.0,9,session_T,22,2,001-2014,CustomToTangentSpace_affine_SVC(C=1)
+148,0.3125,0.17138453,40.0,1,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_SVC(C=1)
+149,0.7375,0.055077076,40.0,2,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_SVC(C=1)
+150,0.4375,0.16194578,40.0,3,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_SVC(C=1)
+151,0.5375,0.05856676,40.0,4,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_SVC(C=1)
+152,0.4625,0.17286177,40.0,5,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_SVC(C=1)
+153,0.425,0.0575315,40.0,6,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_SVC(C=1)
+154,0.975,0.08722272,40.0,7,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_SVC(C=1)
+155,0.8625,0.14233789,40.0,8,session_0,16,1,Alexandre Motor Imagery,CustomToTangentSpace_affine_SVC(C=1)
+156,0.9531973,0.084155604,144.0,1,session_E,22,2,001-2014,MDM_logeuclid
+157,0.91387755,0.08247356,144.0,1,session_T,22,2,001-2014,MDM_logeuclid
+158,0.44040817,0.07196126,144.0,2,session_E,22,2,001-2014,MDM_logeuclid
+159,0.5969388,0.081009865,144.0,2,session_T,22,2,001-2014,MDM_logeuclid
+160,0.98761904,0.083930396,144.0,3,session_E,22,2,001-2014,MDM_logeuclid
+161,0.98,0.08124237,144.0,3,session_T,22,2,001-2014,MDM_logeuclid
+162,0.8185034,0.08922286,144.0,4,session_E,22,2,001-2014,MDM_logeuclid
+163,0.75877553,0.21808371,144.0,4,session_T,22,2,001-2014,MDM_logeuclid
+164,0.61884356,0.08222461,144.0,5,session_E,22,2,001-2014,MDM_logeuclid
+165,0.6158503,0.0741725,144.0,5,session_T,22,2,001-2014,MDM_logeuclid
+166,0.6085714,0.07723956,144.0,6,session_E,22,2,001-2014,MDM_logeuclid
+167,0.68931973,0.07302847,144.0,6,session_T,22,2,001-2014,MDM_logeuclid
+168,0.90183675,0.37293497,144.0,7,session_E,22,2,001-2014,MDM_logeuclid
+169,0.76659864,0.08885417,144.0,7,session_T,22,2,001-2014,MDM_logeuclid
+170,0.9942177,0.079684496,144.0,8,session_E,22,2,001-2014,MDM_logeuclid
+171,0.99122447,0.082076505,144.0,8,session_T,22,2,001-2014,MDM_logeuclid
+172,0.92959183,0.07941346,144.0,9,session_E,22,2,001-2014,MDM_logeuclid
+173,0.78789115,0.08707905,144.0,9,session_T,22,2,001-2014,MDM_logeuclid
+174,0.7625,0.033453416,40.0,1,session_0,16,1,Alexandre Motor Imagery,MDM_logeuclid
+175,0.8375,0.015378523,40.0,2,session_0,16,1,Alexandre Motor Imagery,MDM_logeuclid
+176,0.9125,0.0158247,40.0,3,session_0,16,1,Alexandre Motor Imagery,MDM_logeuclid
+177,0.7375,0.016320467,40.0,4,session_0,16,1,Alexandre Motor Imagery,MDM_logeuclid
+178,0.65,0.015557623,40.0,5,session_0,16,1,Alexandre Motor Imagery,MDM_logeuclid
+179,0.3,0.03070035,40.0,6,session_0,16,1,Alexandre Motor Imagery,MDM_logeuclid
+180,1.0,0.015587759,40.0,7,session_0,16,1,Alexandre Motor Imagery,MDM_logeuclid
+181,0.925,0.032023717,40.0,8,session_0,16,1,Alexandre Motor Imagery,MDM_logeuclid
+182,0.9607483,0.19985738,144.0,1,session_E,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+183,0.9635374,0.17223349,144.0,1,session_T,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+184,0.6551701,0.22935525,144.0,2,session_E,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+185,0.68863946,0.21690544,144.0,2,session_T,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+186,0.9980272,0.15324998,144.0,3,session_E,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+187,0.99142855,0.17691985,144.0,3,session_T,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+188,0.9130612,0.14799014,144.0,4,session_E,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+189,0.8317007,0.19008747,144.0,4,session_T,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+190,0.67,0.38091025,144.0,5,session_E,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+191,0.6341497,0.1852003,144.0,5,session_T,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+192,0.8141497,0.31568924,144.0,6,session_E,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+193,0.8393197,0.148527,144.0,6,session_T,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+194,0.990068,0.15779023,144.0,7,session_E,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+195,0.8742177,0.4396258,144.0,7,session_T,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+196,0.99707484,0.16148391,144.0,8,session_E,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+197,0.9961905,0.17784329,144.0,8,session_T,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+198,0.97414964,0.2704621,144.0,9,session_E,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+199,0.88863945,0.21628885,144.0,9,session_T,22,2,001-2014,TangentSpace_logeuclid_LogisticRegression()
+200,0.8375,0.031230737,40.0,1,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_LogisticRegression()
+201,0.875,0.027346183,40.0,2,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_LogisticRegression()
+202,0.925,0.062430095,40.0,3,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_LogisticRegression()
+203,0.925,0.028829146,40.0,4,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_LogisticRegression()
+204,0.8875,0.07048178,40.0,5,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_LogisticRegression()
+205,0.4125,0.028341437,40.0,6,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_LogisticRegression()
+206,1.0,0.058754347,40.0,7,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_LogisticRegression()
+207,0.975,0.027757406,40.0,8,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_LogisticRegression()
+208,0.9419048,0.6447625,144.0,1,session_E,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+209,0.95013607,0.3642115,144.0,1,session_T,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+210,0.58959186,0.6955503,144.0,2,session_E,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+211,0.5547619,0.2882422,144.0,2,session_T,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+212,0.99714285,0.4465643,144.0,3,session_E,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+213,0.9961905,0.799911,144.0,3,session_T,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+214,0.91183674,0.5805473,144.0,4,session_E,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+215,0.84768707,0.9076181,144.0,4,session_T,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+216,0.6202041,0.3433214,144.0,5,session_E,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+217,0.52619046,0.34475845,144.0,5,session_T,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+218,0.71217686,0.27474242,144.0,6,session_E,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+219,0.8142177,0.34040108,144.0,6,session_T,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+220,0.95714283,0.47021955,144.0,7,session_E,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+221,0.86360544,0.38390255,144.0,7,session_T,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+222,0.9961905,0.29890543,144.0,8,session_E,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+223,0.99693877,0.8980575,144.0,8,session_T,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+224,0.964966,0.47547102,144.0,9,session_E,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+225,0.87857145,0.3473274,144.0,9,session_T,22,2,001-2014,TangentSpace_riemann_SVC(C=1)
+226,0.8,0.07036696,40.0,1,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_SVC(C=1)
+227,0.925,0.09585123,40.0,2,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_SVC(C=1)
+228,0.9,0.099472426,40.0,3,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_SVC(C=1)
+229,0.7625,0.063582756,40.0,4,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_SVC(C=1)
+230,0.7,0.16371122,40.0,5,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_SVC(C=1)
+231,0.45,0.05917249,40.0,6,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_SVC(C=1)
+232,1.0,0.121164754,40.0,7,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_SVC(C=1)
+233,0.9875,0.05549531,40.0,8,session_0,16,1,Alexandre Motor Imagery,TangentSpace_riemann_SVC(C=1)
+234,0.9539456,0.12356329,144.0,1,session_E,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+235,0.9533333,0.41705823,144.0,1,session_T,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+236,0.57462585,0.1533452,144.0,2,session_E,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+237,0.50673467,0.12434258,144.0,2,session_T,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+238,0.9929932,0.12570782,144.0,3,session_E,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+239,0.9940816,0.11356292,144.0,3,session_T,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+240,0.864966,0.118987605,144.0,4,session_E,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+241,0.85108846,0.14556007,144.0,4,session_T,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+242,0.66571426,0.22387715,144.0,5,session_E,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+243,0.61965984,0.3271343,144.0,5,session_T,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+244,0.7104762,0.22289506,144.0,6,session_E,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+245,0.81809527,0.117803,144.0,6,session_T,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+246,0.9691837,0.12095442,144.0,7,session_E,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+247,0.8704762,0.41283458,144.0,7,session_T,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+248,0.9961905,0.21484466,144.0,8,session_E,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+249,0.99714285,0.1442112,144.0,8,session_T,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+250,0.9692517,0.13548055,144.0,9,session_E,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+251,0.88081634,0.41678777,144.0,9,session_T,22,2,001-2014,TangentSpace_logeuclid_SVC(C=1)
+252,0.8,0.029512215,40.0,1,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_SVC(C=1)
+253,0.95,0.025407504,40.0,2,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_SVC(C=1)
+254,0.95,0.0560894,40.0,3,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_SVC(C=1)
+255,0.7375,0.029426385,40.0,4,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_SVC(C=1)
+256,0.7625,0.059862994,40.0,5,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_SVC(C=1)
+257,0.3625,0.026750803,40.0,6,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_SVC(C=1)
+258,1.0,0.055103682,40.0,7,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_SVC(C=1)
+259,0.975,0.025465393,40.0,8,session_0,16,1,Alexandre Motor Imagery,TangentSpace_logeuclid_SVC(C=1)
